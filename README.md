@@ -3,5 +3,5 @@
 
 # Uso
 ```python main.py <target> <threads> <time>```<br>
-ou
+ou<br>
 ```python3 main.py <target> <threads> <time>```
